@@ -5,7 +5,7 @@
 // 1 -3,3 8 -9,9
 // 8 7,8 -7,1 9
 
-double [,] matrix = CreateMatrixRndDouble(5, 8, -100, 100);
+double[,] matrix = CreateMatrixRndDouble(5, 8, -100, 100);
 Console.WriteLine($"m = {matrix.GetLength(0)}, n = {matrix.GetLength(1)}");
 PrintMatrix(matrix);
 
@@ -17,9 +17,9 @@ double[,] CreateMatrixRndDouble(int rows, int columns, double min, double max)
     {
         for (int j = 0; j < arr.GetLength(1); j++)
         {
-            double num = rnd.NextDouble()*(max - min) + min;
-            arr[i,j] = Math.Round(num,1);
-        }  
+            double num = rnd.NextDouble() * (max - min) + min;
+            arr[i, j] = Math.Round(num, 1);
+        }
     }
     return arr;
 }
@@ -31,7 +31,7 @@ void PrintMatrix(double[,] matr)
         Console.Write("[");
         for (int j = 0; j < matr.GetLength(1); j++)
         {
-            if (j<matr.GetLength(1)-1) Console.Write($"{matr[i, j], 5}, ");
+            if (j < matr.GetLength(1) - 1) Console.Write($"{matr[i, j],5}, ");
             else Console.Write($"{matr[i, j],5}");
         }
         Console.WriteLine("]");

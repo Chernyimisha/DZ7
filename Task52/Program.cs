@@ -65,7 +65,7 @@ double[] CalcArithmeticMean(int[,] matr)
             sumElementsColumns = sumElementsColumns + matr[i, j];
         }
         result[j] = (double)sumElementsColumns / matr.GetLength(0);
-        result[j] = Math.Round (result[j],1);
+        result[j] = Math.Round(result[j], 1);
         sumElementsColumns = 0;
     }
     return result;
