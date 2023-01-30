@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\bin\Debug\net6.0\Task47.exe
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\bin\Debug\net6.0\Task47.deps.json
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\bin\Debug\net6.0\Task47.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\bin\Debug\net6.0\Task47.pdb
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\obj\Debug\net6.0\Task47.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\obj\Debug\net6.0\refint\Task47.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\obj\Debug\net6.0\Task47.pdb
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task47\obj\Debug\net6.0\ref\Task47.dll

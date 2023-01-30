@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\bin\Debug\net6.0\Task52.exe
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\bin\Debug\net6.0\Task52.deps.json
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\bin\Debug\net6.0\Task52.runtimeconfig.json
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\bin\Debug\net6.0\Task52.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\bin\Debug\net6.0\Task52.pdb
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\obj\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\obj\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\obj\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\obj\Debug\net6.0\Task52.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\obj\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\obj\Debug\net6.0\Task52.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\obj\Debug\net6.0\refint\Task52.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\obj\Debug\net6.0\Task52.pdb
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\obj\Debug\net6.0\Task52.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task52\obj\Debug\net6.0\ref\Task52.dll
